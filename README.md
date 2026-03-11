@@ -1,4 +1,4 @@
-# --legacy@peer Website
+# --legacy@peer Website https://infiniteloophole.github.io/CodeBlack
 This template includes built-in detection for missing CSS variables between your Tailwind config and CSS files.
 
 ## Features
